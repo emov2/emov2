@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: [mail](emirhan.bas.ceng@gmail.com)
+- 📫 How to reach me: [mail](mailto:emirhan.bas.ceng@gmail.com)
 
 <!--
 **emov2/emov2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
