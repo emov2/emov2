@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Emirhan a computer engineering student in 5th semester.
+I'm Emirhan a computer engineering student in 6th semester.
 
 ### Languages
 
